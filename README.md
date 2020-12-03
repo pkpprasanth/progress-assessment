@@ -1,7 +1,6 @@
 
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# LAB | Greatest Movies of All Time
 
 
 ## Introduction
